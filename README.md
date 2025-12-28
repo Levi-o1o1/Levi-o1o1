@@ -1,5 +1,5 @@
 # 💫 About Me:
-hey! I'm ayush<br>i'm currently learning...<br><br>i'm a computer science student exploring backend basics<br>and also cyber security 
+hey! I'm ayush<br>i'm currently learning...<br><br>i'm a computer science student exploring backend basics<br>
 
 
 ## 🌐 Socials:
