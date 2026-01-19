@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayush</h1>
 <h3 align="center">A passionate developer & Ethical Hacker.......</h3>
 
-<img src='https://blog.devgenius.io/creating-a-curd-application-in-rust-using-mongodb-rust-driver-and-actix-web-139137615159' width="40"> 
+
 - 🌱 I’m currently learning **Rust,AWS,LLM's models**
 
 - 👨‍💻 All of my projects are available at [coming soon......](coming soon......)
@@ -55,3 +55,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=levi-o1o1&show_icons=true&locale=en" alt="levi-o1o1" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=levi-o1o1&" alt="levi-o1o1" /></p>
+<img src='https://blog.devgenius.io/creating-a-curd-application-in-rust-using-mongodb-rust-driver-and-actix-web-139137615159' width="40"> 
