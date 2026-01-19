@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ayush</h1>
 <h3 align="center">A passionate developer & Ethical Hacker.......</h3>
-<img src="https://medium.com/@aiiaor/why-i-become-rustaceans-rust-programming-fans-f5e8dca981ce"> 
+<img src="https://medium.com/@aiiaor/why-i-become-rustaceans-rust-programming-fans-f5e8dca981ce" height="30" width="40"> 
 - 🌱 I’m currently learning **Rust,AWS,LLM's models**
 
 - 👨‍💻 All of my projects are available at [coming soon......](coming soon......)
