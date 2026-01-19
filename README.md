@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ayush</h1>
 <h3 align="center">A passionate developer & Ethical Hacker.......</h3>
-
+<img src='https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif'
 
 - 🌱 I’m currently learning **Rust,AWS,LLM's models**
 
