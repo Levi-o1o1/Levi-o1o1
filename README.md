@@ -60,4 +60,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=levi-o1o1&" alt="levi-o1o1" /></p>
 <img src='https://blog.devgenius.io/creating-a-curd-application-in-rust-using-mongodb-rust-driver-and-actix-web-139137615159' width="40"> 
-<img src='https://user-images.githubusercontent.com/74038190/218266069-da299265-d22b-41f5-99f1-cf8bfa951c42.gif' width="40">
+<img src='https://user-images.githubusercontent.com/74038190/218266069-da299265-d22b-41f5-99f1-cf8bfa951c42.gif' width="400">
