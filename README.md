@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://tenor.com/view/aizen-aizen-form-aizen-vs-ichigo-aizen-vs-yhwach-aizen-ichigo-vs-yhwach-gif-26896598" width="100">
+<img src="https://giffiles.alphacoders.com/190/190292.gif" width="100">
 </p>
 
 
