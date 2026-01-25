@@ -1,4 +1,8 @@
-<img src=" https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExamJ6ZGppN2lnNjRhZDFqYWtxNGtweG5wcWZyYTZtOG5hMjU2Zzk4cCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QfCQQQAI860CXZY9qs/giphy.gif" width="400" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExamJ6ZGppN2lnNjRhZDFqYWtxNGtweG5wcWZyYTZtOG5hMjU2Zzk4cCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QfCQQQAI860CXZY9qs/giphy.gif" width="400">
+
+
+
+
 <a href="https://emoji.gg/emoji/3958-computer"><img src="https://cdn3.emoji.gg/emojis/3958-computer.gif" width="64px" height="64px" alt="computer"></a>
 
 <h1 align="center">Hi 👋, I'm Ayush</h1>
