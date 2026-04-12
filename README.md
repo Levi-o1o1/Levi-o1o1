@@ -13,7 +13,7 @@
 <img src='https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif'>
 - 🌱 I’m currently learning **Rust,AWS,LLM's models**
 
-- 👨‍💻 All of my projects are available at [coming soon......](coming soon......)
+- 👨‍💻 All of my projects are available at [coming soon......]
 
 - 💬 Ask me about **Python,sqlite, JavaScript,......etc**
 
