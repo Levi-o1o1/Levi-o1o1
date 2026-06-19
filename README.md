@@ -19,16 +19,16 @@
 
 <img src='https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif' width="30" height="30">
 <img src='https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif'>
-- 🌱 I’m currently learning **Rust,AWS,LLM's models**
+guest@portfolio:~$ whoami
+Levi — Cybersecurity Enthusiast | Aspiring SOC L1 Analyst
 
-- 👨‍💻 All of my projects are available at [coming soon......]
+guest@portfolio:~$ cat about.txt
+B.Tech (transitioning) | CSE Diploma  | SAGE University, Indore
+Full-Stack dev SOC Operations, Threat Detection, Network Security
 
-- 💬 Ask me about **Python,sqlite, JavaScript,......etc**
-
-- 📫 How to reach me **eastwatch.o1o1@gmail.com**
-
-- ⚡ Fun fact **I use Vim 😅**
-
+ayush@portfolio:~$ cat contact.txt
+Email: eastwatch.o1o1@gmail.com
+LinkedIn: 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/https://dev.to/levio1o1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/levio1o1" height="30" width="40" /></a>
