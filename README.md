@@ -30,33 +30,44 @@
     <!-- window body -->
     <rect x="0" y="0" width="760" height="400" fill="#0b0d0f"/>
 
-    <!-- title bar -->
-    <rect x="0" y="0" width="760" height="40" fill="#16191c"/>
-    <circle cx="24" cy="20" r="6" fill="#3d4147"/>
-    <circle cx="46" cy="20" r="6" fill="#3d4147"/>
-    <circle cx="68" cy="20" r="6" fill="#3d4147"/>
-    <text x="380" y="25" text-anchor="middle" font-family="Consolas, 'SF Mono', 'Fira Code', monospace" font-size="13" fill="#9aa0a6">levi@root: ~</text>
-    <line x1="0" y1="40" x2="760" y2="40" stroke="#24282d" stroke-width="1"/>
+    <div align="center">
+  <img src="./terminal-intro.svg" alt="Levi — full-stack developer, cybersecurity analyst, SOC L1 analyst, ethical hacker" width="700" />
+</div>
 
-    <!-- body content -->
-    <text font-family="Consolas, 'SF Mono', 'Fira Code', monospace" font-size="15" xml:space="preserve">
-      <tspan x="28" y="80"><tspan fill="#8fb3c7">levi@root</tspan><tspan fill="#5b6168">:~$ </tspan><tspan fill="#e7e9ea">whoami</tspan></tspan>
-      <tspan x="28" y="106" fill="#c8cbce">levi</tspan>
+<br/>
 
-      <tspan x="28" y="150"><tspan fill="#8fb3c7">levi@root</tspan><tspan fill="#5b6168">:~$ </tspan><tspan fill="#e7e9ea">cat roles.txt</tspan></tspan>
-      <tspan x="28" y="176" fill="#c8cbce">&gt; Full-Stack Developer</tspan>
-      <tspan x="28" y="200" fill="#c8cbce">&gt; Cybersecurity Analyst</tspan>
-      <tspan x="28" y="224" fill="#c8cbce">&gt; SOC L1 Analyst — Security Operations</tspan>
-      <tspan x="28" y="248" fill="#c8cbce">&gt; Ethical Hacker</tspan>
+<div align="center">
 
-      <tspan x="28" y="292"><tspan fill="#8fb3c7">levi@root</tspan><tspan fill="#5b6168">:~$ </tspan><tspan fill="#e7e9ea">echo $STATUS</tspan></tspan>
-      <tspan x="28" y="318" fill="#c8cbce">[ONLINE] Building secure systems &amp; breaking insecure ones.</tspan>
+### 🧠 Languages
+<img src="https://img.shields.io/badge/Python-14151a?style=flat-square&logo=python&logoColor=3776AB" />
+<img src="https://img.shields.io/badge/JavaScript-14151a?style=flat-square&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/C-14151a?style=flat-square&logo=c&logoColor=A8B9CC" />
+<img src="https://img.shields.io/badge/SQL-14151a?style=flat-square&logo=mysql&logoColor=4479A1" />
 
-      <tspan x="28" y="362"><tspan fill="#8fb3c7">levi@root</tspan><tspan fill="#5b6168">:~$ </tspan><tspan fill="#e7e9ea">_</tspan></tspan>
-    </text>
-  </g>
+### 🌐 Full-Stack / Web (MERN)
+<img src="https://img.shields.io/badge/React-14151a?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Vite-14151a?style=flat-square&logo=vite&logoColor=B73BFE" />
+<img src="https://img.shields.io/badge/Node.js-14151a?style=flat-square&logo=nodedotjs&logoColor=339933" />
+<img src="https://img.shields.io/badge/Express-14151a?style=flat-square&logo=express&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/MongoDB-14151a?style=flat-square&logo=mongodb&logoColor=47A248" />
+<img src="https://img.shields.io/badge/Supabase-14151a?style=flat-square&logo=supabase&logoColor=3FCF8E" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-14151a?style=flat-square&logo=tailwindcss&logoColor=38B2AC" />
 
-  <!-- crisp outer border -->
+### 🛡️ Cybersecurity & SOC
+<img src="https://img.shields.io/badge/Linux-14151a?style=flat-square&logo=linux&logoColor=FCC624" />
+<img src="https://img.shields.io/badge/Kali_Linux-14151a?style=flat-square&logo=kalilinux&logoColor=557C94" />
+<img src="https://img.shields.io/badge/Wireshark-14151a?style=flat-square&logo=wireshark&logoColor=1679A7" />
+<img src="https://img.shields.io/badge/Nmap-14151a?style=flat-square" />
+<img src="https://img.shields.io/badge/Burp_Suite-14151a?style=flat-square" />
+<img src="https://img.shields.io/badge/Splunk-14151a?style=flat-square&logo=splunk&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/OWASP-14151a?style=flat-square&logo=owasp&logoColor=000000" />
+
+### 🚀 Currently Exploring
+<img src="https://img.shields.io/badge/Machine_Learning-14151a?style=flat-square&logo=scikitlearn&logoColor=F7931E" />
+<img src="https://img.shields.io/badge/TryHackMe-14151a?style=flat-square&logo=tryhackme&logoColor=C40D11" />
+<img src="https://img.shields.io/badge/Hack_The_Box-14151a?style=flat-square&logo=hackthebox&logoColor=9FEF00" />
+
+</div>
   <rect x="0.5" y="0.5" width="759" height="399" rx="14" ry="14" fill="none" stroke="#24282d" stroke-width="1"/>
 </svg>
 <h3 align="left">Connect with me:</h3>
