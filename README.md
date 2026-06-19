@@ -16,6 +16,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF94&center=true&vCenter=true&width=600&lines=Cybersecurity+Analyst+%7C+Threat+Hunter;Full-Stack+Developer+%7C+Builder;Ethical+Hacker+%7C+SIEM+Operator;SOC+Analyst+%7C+Programmer+SDK;%24+whoami+%E2%86%92+Levi)](https://git.io/typing-svg)
 
 </div>
+<div>
 ```bash
 levi@root:~$ whoami
 levi
@@ -30,7 +31,7 @@ levi@root:~$ echo $STATUS
 [ONLINE] Building secure systems & breaking insecure ones.
 
 levi@root:~$ _
-```
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -84,3 +85,4 @@ levi@root:~$ _
 <div align="center">
 <img src='https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg' />
 </div>
+```
