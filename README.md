@@ -19,16 +19,46 @@
 
 <img src='https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif' width="30" height="30">
 <img src='https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif'>
-guest@portfolio:~$ whoami
-Levi — Cybersecurity Enthusiast | Aspiring SOC L1 Analyst
+<svg viewBox="0 0 760 400" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Terminal window introducing Levi: full-stack developer, cybersecurity analyst, SOC L1 analyst, ethical hacker">
+  <defs>
+    <clipPath id="winClip">
+      <rect x="0" y="0" width="760" height="400" rx="14" ry="14"/>
+    </clipPath>
+  </defs>
 
-guest@portfolio:~$ cat about.txt
-B.Tech (transitioning) | CSE Diploma grad | SAGE University, Indore
-Focus: SOC Operations, Threat Detection, Network Security
+  <g clip-path="url(#winClip)">
+    <!-- window body -->
+    <rect x="0" y="0" width="760" height="400" fill="#0b0d0f"/>
 
-guest@portfolio:~$ cat contact.txt
-Email: ...
-LinkedIn: ...
+    <!-- title bar -->
+    <rect x="0" y="0" width="760" height="40" fill="#16191c"/>
+    <circle cx="24" cy="20" r="6" fill="#3d4147"/>
+    <circle cx="46" cy="20" r="6" fill="#3d4147"/>
+    <circle cx="68" cy="20" r="6" fill="#3d4147"/>
+    <text x="380" y="25" text-anchor="middle" font-family="Consolas, 'SF Mono', 'Fira Code', monospace" font-size="13" fill="#9aa0a6">levi@root: ~</text>
+    <line x1="0" y1="40" x2="760" y2="40" stroke="#24282d" stroke-width="1"/>
+
+    <!-- body content -->
+    <text font-family="Consolas, 'SF Mono', 'Fira Code', monospace" font-size="15" xml:space="preserve">
+      <tspan x="28" y="80"><tspan fill="#8fb3c7">levi@root</tspan><tspan fill="#5b6168">:~$ </tspan><tspan fill="#e7e9ea">whoami</tspan></tspan>
+      <tspan x="28" y="106" fill="#c8cbce">levi</tspan>
+
+      <tspan x="28" y="150"><tspan fill="#8fb3c7">levi@root</tspan><tspan fill="#5b6168">:~$ </tspan><tspan fill="#e7e9ea">cat roles.txt</tspan></tspan>
+      <tspan x="28" y="176" fill="#c8cbce">&gt; Full-Stack Developer</tspan>
+      <tspan x="28" y="200" fill="#c8cbce">&gt; Cybersecurity Analyst</tspan>
+      <tspan x="28" y="224" fill="#c8cbce">&gt; SOC L1 Analyst — Security Operations</tspan>
+      <tspan x="28" y="248" fill="#c8cbce">&gt; Ethical Hacker</tspan>
+
+      <tspan x="28" y="292"><tspan fill="#8fb3c7">levi@root</tspan><tspan fill="#5b6168">:~$ </tspan><tspan fill="#e7e9ea">echo $STATUS</tspan></tspan>
+      <tspan x="28" y="318" fill="#c8cbce">[ONLINE] Building secure systems &amp; breaking insecure ones.</tspan>
+
+      <tspan x="28" y="362"><tspan fill="#8fb3c7">levi@root</tspan><tspan fill="#5b6168">:~$ </tspan><tspan fill="#e7e9ea">_</tspan></tspan>
+    </text>
+  </g>
+
+  <!-- crisp outer border -->
+  <rect x="0.5" y="0.5" width="759" height="399" rx="14" ry="14" fill="none" stroke="#24282d" stroke-width="1"/>
+</svg>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/https://dev.to/levio1o1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/levio1o1" height="30" width="40" /></a>
