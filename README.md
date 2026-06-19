@@ -16,60 +16,22 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF94&center=true&vCenter=true&width=600&lines=Cybersecurity+Analyst+%7C+Threat+Hunter;Full-Stack+Developer+%7C+Builder;Ethical+Hacker+%7C+SIEM+Operator;SOC+Analyst+%7C+Programmer+SDK;%24+whoami+%E2%86%92+Levi)](https://git.io/typing-svg)
 
 </div>
+```bash
+levi@root:~$ whoami
+levi
 
-<img src='https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif' width="30" height="30">
-<img src='https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif'>
-<svg viewBox="0 0 760 400" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Terminal window introducing Levi: full-stack developer, cybersecurity analyst, SOC L1 analyst, ethical hacker">
-  <defs>
-    <clipPath id="winClip">
-      <rect x="0" y="0" width="760" height="400" rx="14" ry="14"/>
-    </clipPath>
-  </defs>
+levi@root:~$ cat roles.txt
+> Full-Stack Developer
+> Cybersecurity Analyst
+> SOC L1 Analyst — Security Operations
+> Ethical Hacker
 
-  <g clip-path="url(#winClip)">
-    <!-- window body -->
-    <rect x="0" y="0" width="760" height="400" fill="#0b0d0f"/>
+levi@root:~$ echo $STATUS
+[ONLINE] Building secure systems & breaking insecure ones.
 
-    <div align="center">
-  <img src="./terminal-intro.svg" alt="Levi — full-stack developer, cybersecurity analyst, SOC L1 analyst, ethical hacker" width="700" />
-</div>
+levi@root:~$ _
+```
 
-<br/>
-
-<div align="center">
-
-### 🧠 Languages
-<img src="https://img.shields.io/badge/Python-14151a?style=flat-square&logo=python&logoColor=3776AB" />
-<img src="https://img.shields.io/badge/JavaScript-14151a?style=flat-square&logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/C-14151a?style=flat-square&logo=c&logoColor=A8B9CC" />
-<img src="https://img.shields.io/badge/SQL-14151a?style=flat-square&logo=mysql&logoColor=4479A1" />
-
-### 🌐 Full-Stack / Web (MERN)
-<img src="https://img.shields.io/badge/React-14151a?style=flat-square&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Vite-14151a?style=flat-square&logo=vite&logoColor=B73BFE" />
-<img src="https://img.shields.io/badge/Node.js-14151a?style=flat-square&logo=nodedotjs&logoColor=339933" />
-<img src="https://img.shields.io/badge/Express-14151a?style=flat-square&logo=express&logoColor=ffffff" />
-<img src="https://img.shields.io/badge/MongoDB-14151a?style=flat-square&logo=mongodb&logoColor=47A248" />
-<img src="https://img.shields.io/badge/Supabase-14151a?style=flat-square&logo=supabase&logoColor=3FCF8E" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-14151a?style=flat-square&logo=tailwindcss&logoColor=38B2AC" />
-
-### 🛡️ Cybersecurity & SOC
-<img src="https://img.shields.io/badge/Linux-14151a?style=flat-square&logo=linux&logoColor=FCC624" />
-<img src="https://img.shields.io/badge/Kali_Linux-14151a?style=flat-square&logo=kalilinux&logoColor=557C94" />
-<img src="https://img.shields.io/badge/Wireshark-14151a?style=flat-square&logo=wireshark&logoColor=1679A7" />
-<img src="https://img.shields.io/badge/Nmap-14151a?style=flat-square" />
-<img src="https://img.shields.io/badge/Burp_Suite-14151a?style=flat-square" />
-<img src="https://img.shields.io/badge/Splunk-14151a?style=flat-square&logo=splunk&logoColor=ffffff" />
-<img src="https://img.shields.io/badge/OWASP-14151a?style=flat-square&logo=owasp&logoColor=000000" />
-
-### 🚀 Currently Exploring
-<img src="https://img.shields.io/badge/Machine_Learning-14151a?style=flat-square&logo=scikitlearn&logoColor=F7931E" />
-<img src="https://img.shields.io/badge/TryHackMe-14151a?style=flat-square&logo=tryhackme&logoColor=C40D11" />
-<img src="https://img.shields.io/badge/Hack_The_Box-14151a?style=flat-square&logo=hackthebox&logoColor=9FEF00" />
-
-</div>
-  <rect x="0.5" y="0.5" width="759" height="399" rx="14" ry="14" fill="none" stroke="#24282d" stroke-width="1"/>
-</svg>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/https://dev.to/levio1o1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/levio1o1" height="30" width="40" /></a>
