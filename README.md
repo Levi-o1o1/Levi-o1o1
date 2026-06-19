@@ -13,7 +13,7 @@
 <!-- BOOT SEQUENCE HEADER -->
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF94&center=true&vCenter=true&width=600&lines=Cybersecurity+Analyst+%7C+Threat+Hunter;Full-Stack+Developer+%7C+Builder;Ethical+Hacker+%7C+SIEM+Operator;SOC+Analyst+%7C+Lifelong+Learner;%24+whoami+%E2%86%92+Levi)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF94&center=true&vCenter=true&width=600&lines=Cybersecurity+Analyst+%7C+Threat+Hunter;Full-Stack+Developer+%7C+Builder;Ethical+Hacker+%7C+SIEM+Operator;SOC+Analyst+%7C+Programmer+SDK;%24+whoami+%E2%86%92+Levi)](https://git.io/typing-svg)
 
 </div>
 
