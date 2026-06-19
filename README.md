@@ -8,7 +8,9 @@
 <a href="https://emoji.gg/emoji/3958-computer"><img src="https://cdn3.emoji.gg/emojis/3958-computer.gif" width="64px" height="64px" alt="computer"></a>
 
 <h1 align="center">Hi 👋, I'm Ayush</h1>
-<h3 align="center">A passionate developer & Ethical Hacker.......</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF94&center=true&vCenter=true&width=600&lines=Cybersecurity+Analyst+%7C+Threat+Hunter;Full-Stack+Developer+%7C+Builder;Ethical+Hacker+%7C+SIEM+Operator;SOC+Aspirant+%7C+Lifelong+Learner;%24+whoami+%E2%86%92+Levi)](https://git.io/typing-svg)
+</div>
+
 <img src='https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif' width="30" height="30">
 <img src='https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif'>
 - 🌱 I’m currently learning **Rust,AWS,LLM's models**
@@ -64,6 +66,9 @@
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=levi-o1o1&show_icons=true&locale=en" alt="levi-o1o1" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=levi-o1o1&" alt="levi-o1o1" /></p>
-<img src='https://blog.devgenius.io/creating-a-curd-application-in-rust-using-mongodb-rust-driver-and-actix-web-139137615159' width="40"> 
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true&background=0d1117&stroke=00FF94&ring=00FF94&fire=ff6b35&currStreakLabel=00FF94&sideLabels=c9d1d9&dates=8b949e" />
+
+</div>
 <img src='https://user-images.githubusercontent.com/74038190/218266069-da299265-d22b-41f5-99f1-cf8bfa951c42.gif' width="400">
