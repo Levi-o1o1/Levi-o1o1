@@ -23,12 +23,12 @@ guest@portfolio:~$ whoami
 Levi — Cybersecurity Enthusiast | Aspiring SOC L1 Analyst
 
 guest@portfolio:~$ cat about.txt
-B.Tech (transitioning) | CSE Diploma  | SAGE University, Indore
-Full-Stack dev SOC Operations, Threat Detection, Network Security
+B.Tech (transitioning) | CSE Diploma grad | SAGE University, Indore
+Focus: SOC Operations, Threat Detection, Network Security
 
-ayush@portfolio:~$ cat contact.txt
-Email: eastwatch.o1o1@gmail.com
-LinkedIn: 
+guest@portfolio:~$ cat contact.txt
+Email: ...
+LinkedIn: ...
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/https://dev.to/levio1o1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/levio1o1" height="30" width="40" /></a>
